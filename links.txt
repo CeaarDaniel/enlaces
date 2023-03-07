@@ -1,3 +1,16 @@
 https://developer.mozilla.org/es/
 Esta es una modificacion al archivo enlaces
 https://m3.material.io/
+
+https://docs-v2.nativebase.io/docs/Compatibility.html
+https://snack.expo.dev/@cesarvega99/nativebase-playground
+https://reactnative.dev/docs/react-18-and-react-native
+https://gist.github.com/ShahrozTanveer/5f243bccaf762f41f3d71601cd573128
+https://www.freecodecamp.org/espanol/news/como-usar-axios-con-react/#axios
+
+
+https://developer.mozilla.org/es/docs/Web/JavaScript
+
+https://docs.nativebase.io/stack
+https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio#try_it
+https://docs.nativebase.io/building-drawer-navigation
