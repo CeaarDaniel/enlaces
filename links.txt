@@ -14,3 +14,10 @@ https://developer.mozilla.org/es/docs/Web/JavaScript
 https://docs.nativebase.io/stack
 https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio#try_it
 https://docs.nativebase.io/building-drawer-navigation
+
+Para el drawe navigation. 
+"@react-navigation/native": "6.1.6",
+ "@react-navigation/native-stack": "6.9.12"
+ 
+ En visual code
+ https://reactnavigation.org/docs/getting-started
