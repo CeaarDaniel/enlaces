@@ -24,4 +24,24 @@ Para el drawe navigation.
  npm install @react-navigation/native
  npx expo install react-native-screens react-native-safe-area-context
  npm install @react-navigation/native-stack
- 
+
+objetivo
+mockup
+ux/ui (tema, colores)
+
+backend db(online opcional)
+validacion backend frontend
+autenticacion
+CRUD
+    -consultas varias
+    -NO buscar pod ID
+     
+Tablas (normalizadas, relacionadas)
+Navegacion (tabs,stack, drawer) por lo menos 2
+paso de parametros
+imagenes (opcional) 
+
+php
+SQLite (online puede ser cualquier otro menos firebase)
+codigo ingles
+Indentacion de codigo
