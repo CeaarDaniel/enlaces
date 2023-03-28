@@ -1,6 +1,7 @@
 https://developer.mozilla.org/es/
 Esta es una modificacion al archivo enlaces
 https://m3.material.io/
+https://www.figma.com/design/
 
 https://docs-v2.nativebase.io/docs/Compatibility.html
 https://snack.expo.dev/@cesarvega99/nativebase-playground
