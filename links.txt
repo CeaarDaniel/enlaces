@@ -18,6 +18,10 @@ https://docs.nativebase.io/stack
 https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio#try_it
 https://docs.nativebase.io/building-drawer-navigation
 
+subir imagen con php
+https://norfipc.com/inf/como-subir-fotos-imagenes-servidor-web.php
+https://programacion.net/articulo/subir-_insertar-_modificar_y_borrar_una_imagen_utilizando_php_y_mysql_1537
+
 Para el drawe navigation. 
 "@react-navigation/native": "6.1.6",
  "@react-navigation/native-stack": "6.9.12"
