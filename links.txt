@@ -8,7 +8,14 @@ https://onlinephp.io/ editor de php online
 https://docs-v2.nativebase.io/docs/Compatibility.html
 https://snack.expo.dev/@cesarvega99/nativebase-playground
 https://reactnative.dev/docs/react-18-and-react-native
+
 https://gist.github.com/ShahrozTanveer/5f243bccaf762f41f3d71601cd573128
+
+Aqui se pueden ver los iconos permitidos en react native, hay de varias librerias asi que hay que tener cuidado con el que se esta usando
+la que tengo instalada es la de materialicons entonces hay que filtrar los iconos para ver los iconos pertenecientes a materialicons
+https://icons.expo.fyi/
+
+
 https://www.freecodecamp.org/espanol/news/como-usar-axios-con-react/#axios
 
 
