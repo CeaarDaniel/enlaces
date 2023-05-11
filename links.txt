@@ -5,6 +5,9 @@ https://www.figma.com/design/
 https://www.w3schools.com/sql/default.asp
 https://onlinephp.io/ editor de php online
 
+
+https://styde.net/solicitudes-http-con-axios/
+
 https://docs-v2.nativebase.io/docs/Compatibility.html
 https://snack.expo.dev/@cesarvega99/nativebase-playground
 https://reactnative.dev/docs/react-18-and-react-native
