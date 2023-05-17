@@ -6,6 +6,10 @@ https://www.w3schools.com/sql/default.asp
 https://onlinephp.io/ editor de php online
 
 
+https://www.000webhost.com/forum/t/error-al-subir-archivos-en-carpeta-temporal-desde-php/33487/4
+
+
+
 https://styde.net/solicitudes-http-con-axios/
 
 https://docs-v2.nativebase.io/docs/Compatibility.html
