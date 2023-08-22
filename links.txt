@@ -23,6 +23,9 @@ Aqui se pueden ver los iconos permitidos en react native, hay de varias libreria
 la que tengo instalada es la de materialicons entonces hay que filtrar los iconos para ver los iconos pertenecientes a materialicons
 https://icons.expo.fyi/
 
+iconos de boostrap
+https://fontawesome.com/v6/icons?o=r&s=solid
+
 
 https://www.freecodecamp.org/espanol/news/como-usar-axios-con-react/#axios
 
